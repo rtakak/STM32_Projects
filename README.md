@@ -26,4 +26,4 @@ This repository consists of a series of projects developed as part of a Micropro
 >**ShiftPattern**
 - This is a LED shift pattern implementation. 8 external LEDs and 1 button are connected. The pattern light 3 LEDs at the same time.  These 3 LEDs shift right or left indefinitely.  The button toggle the shift direction when pressed.
 
-#### These projects and repository were made by @Furkannkeskin , @EsraKrmn and @rtakak .
+#### These projects and repository were made by [Furkan Keskin](https://github.com/Furkannkeskin) , [Esra Kirman](https://github.com/EsraKrmn) and [Recep Takak](https://github.com/rtakak).

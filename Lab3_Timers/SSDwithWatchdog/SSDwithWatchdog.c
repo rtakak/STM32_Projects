@@ -1,4 +1,20 @@
-
+/*
+ * 4D7S display / Stm32g0 Nucleo
+ * D1 -> PA4
+ * D2 -> PA5
+ * D3 -> PA6
+ * D4 -> PA7
+ *
+ * A -> PB3
+ * B -> PB4
+ * C -> PB5
+ * D -> PB6
+ * E -> PB7
+ * F -> PB8
+ * G -> PB9
+ * Button -> PA8
+ */
+ 
 #include "stm32g0xx.h"
 #define   ResetIWDG   (IWDG->KR=0xAAAA)
 #define LEDDELAY    1000
