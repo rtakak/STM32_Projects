@@ -1,7 +1,7 @@
 # STM 32 Projects on NUCLEO-G031K8
 
 ## Overview
-This repository consists of a series of projects developed as part of a Microprocessors course using the STM32 NUCLEO-G031K8. These projects illustrate our ability to implement and integrate various hardware and software concepts, such as ADC (Analog to Digital Conversion), PWM (Pulse Width Modulation), UART communication and timer functionalities. Each project was designed not only as an academic exercise but also as a stepping stone towards real-world embedded systems applications.
+This repository consists of a series of projects developed as part of a Microprocessors course using the STM32 NUCLEO-G031K8. These projects illustrate our ability to implement and integrate various hardware and software concepts, such as ADC (Analog to Digital Conversion), PWM (Pulse Width Modulation), UART communication, timer functionalities, embedded C and Assembly programming languages. Each project was designed not only as an academic exercise but also as a stepping stone towards real-world embedded systems applications.
 
 
 ## Lab 5 ADC
