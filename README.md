@@ -9,7 +9,7 @@ This repository consists of a series of projects developed as part of a Micropro
 - A knock counter application. There is a microphone and seven segment display in the circuit. Incoming knock sounds are detected by the microphone and the number of knocks is displayed on the screen.
 
 >**Light Dimmer**
-- A light dimmer with a potentiometer. An application where the light brightness changes according to the changing resistor value.The analog value from the potentiometer is read with the ADC pin. PWM is used to drive the LED to change the brightness. A 0 duty cycle will turn the LEDs off and a 100% duty cycle will turn them on completely.
+- A light dimmer with a potentiometer. An application where the light brightness changes according to the potentiometer value.The analog value from the potentiometer is read with the ADC pin. PWM is used to drive the LED to change the brightness. A 0 duty cycle will turn the LEDs off and a 100% duty cycle will turn them on completely.
 
 ## Lab 4 PWM, UART and Keypad
 >**PWM_Keypad**
